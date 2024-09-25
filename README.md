@@ -1,4 +1,4 @@
-<img src="images/github-header-image(7).png" alt="Desktop sadat">
+<a href="github-header-image(7).png"><img decoding="async" src="github-header-image(7).png" alt="image"></a>
 
 <h1 align="center">As-salamu alaykum I'm Sadat Islam Abdullah</h1>
 <h3 align="center"><b>Innovative coder crafting solutions that inspire.</h3></b>
