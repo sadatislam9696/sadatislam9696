@@ -1,4 +1,4 @@
-![MasterHead](C:\Users\User\Desktop\sadat\github-header-image (6).png)
+![MasterHead](https://ibb.co.com/FHTwVVy)
 <h1 align="center">As-salamu alaykum I'm Sadat Islam Abdullah</h1>
 <h3 align="center"><b>Innovative coder crafting solutions that inspire.</h3></b>
 
