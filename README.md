@@ -1,4 +1,5 @@
-![MasterHead](https://ibb.co.com/FHTwVVy)
+<img src="images/github-header-image(7).png" alt="Desktop sadat">
+
 <h1 align="center">As-salamu alaykum I'm Sadat Islam Abdullah</h1>
 <h3 align="center"><b>Innovative coder crafting solutions that inspire.</h3></b>
 
