@@ -6,6 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadatislam9696&label=Profile%20views&color=0e75b6&style=flat" alt="sadatislam9696" /> </p>
 
 - 📫 How to reach me **pathchari5@gmail.com**
+- 📫 How to reach me **phone : 01842489696**
 
 - ⚡ Fun fact **I turn caffeine into code. It’s an art.**
 
