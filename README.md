@@ -1,5 +1,6 @@
-<a href="github-header-image(7).png"><img decoding="async" src="github-header-image(7).png" alt="image"></a>
-
+<a href="https://ibb.co/p4RN7xK" target="_blank">
+  <img src="https://i.ibb.co/p4RN7xK/github-header-image-7.png" alt="Image description" />
+</a>
 <h1 align="center">As-salamu alaykum I'm Sadat Islam Abdullah</h1>
 <h3 align="center"><b>Innovative coder crafting solutions that inspire.</h3></b>
 
