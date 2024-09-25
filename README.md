@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadatislam9696&label=Profile%20views&color=0e75b6&style=flat" alt="sadatislam9696" /> </p>
 
-- 🌱 <b>I’m currently learning Problem Solving.</b>
+- 🌱 <b<b>>I’m currently learning Problem Solving.</b</b>>
 
 - 📫 How to reach me **pathchari5@gmail.com**
     - Phone : **01842489696**
