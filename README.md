@@ -1,15 +1,14 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
 <h1 align="center">As-salamu alaykum 👋, I'm Sadat Islam Abdullah</h1>
-<h3 align="center">Innovative coder crafting solutions that inspire.</h3>
+<h3 align="center"><b>Innovative coder crafting solutions that inspire.</h3></b>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadatislam9696&label=Profile%20views&color=0e75b6&style=flat" alt="sadatislam9696" /> </p>
 
-- 🌱 <b<b>>I’m currently learning Problem Solving.</b</b>>
+- 👉 <b>I’m currently learning Problem Solving.</b>
 
-- 📫 How to reach me **pathchari5@gmail.com**
-    - Phone : **01842489696**
+- 📫 <b>How to reach me **pathchari5@gmail.com**</b>
 
-- ⚡ Fun fact **I turn caffeine into code. It’s an art.**
+- 😉 <b>Fun fact **I turn caffeine into code. It’s an art.**</b>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
