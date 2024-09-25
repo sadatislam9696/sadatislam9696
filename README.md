@@ -7,6 +7,7 @@
 - 🌱 I’m currently learning Problem Solving
 
 - 📫 How to reach me **pathchari5@gmail.com**
+    - Phone : **01842489696**
 
 - ⚡ Fun fact **I turn caffeine into code. It’s an art.**
 
