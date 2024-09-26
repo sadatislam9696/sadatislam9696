@@ -8,7 +8,7 @@
 
 -  <b>How to reach me **pathchari5@gmail.com**</b>
 
--  <b>Ask me about Competitive-Programming</b>
+-  <b>Ask me anything about Competitive-Programming</b>
 
 -  <b>Fun fact **I turn caffeine into code. It’s an art.**</b>
 
