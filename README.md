@@ -1,40 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="styles.css">
-    <title>Animated Text</title>
-</head>
-<body>
-    <div class="animated-text">Assalamualaykum, I'm Sadat Islam Abdullah!</div>
-</body>
-</html>
 
-body {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    background-color: #f0f0f0;
-    font-family: Arial, sans-serif;
-}
-
-.animated-text {
-    font-size: 24px;
-    color: #333;
-    opacity: 0; /* Start invisible */
-    transform: translateY(20px); /* Start slightly lower */
-    animation: fadeInUp 2s forwards; /* Call the animation */
-}
-
-@keyframes fadeInUp {
-    to {
-        opacity: 1; /* End fully visible */
-        transform: translateY(0); /* Move to original position */
-    }
-}
-
+<marquee behavior="scroll" direction="left">Assalamualaykum I'm Sadat Islam Abdullah...</marquee>
 <!--
 <h1 align="center">Assalamualaykum I'm Sadat Islam Abdullah</h1>
 -->
