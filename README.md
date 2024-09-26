@@ -101,3 +101,11 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
   <a href="https://www.sketch.com/" target="_blank"
+
+
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sadatislam9696&show_icons=true&locale=en&layout=compact" alt="sadatislam9696" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sadatislam9696&show_icons=true&locale=en" alt="sadatislam9696" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sadatislam9696&" alt="sadatislam9696" /></p>
+
