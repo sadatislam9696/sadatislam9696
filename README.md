@@ -7,7 +7,8 @@
 - 👉 <b>I’m currently learning Problem Solving.</b>
 
 - 📫 <b>How to reach me **pathchari5@gmail.com**</b>
-- 💬 Ask me about web development , artificial intelligence
+
+- 💬 <b>Ask me about Competitive-Programming</b>
 
 - 😉 <b>Fun fact **I turn caffeine into code. It’s an art.**</b>
 
