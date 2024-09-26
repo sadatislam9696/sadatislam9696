@@ -1,30 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Colored Text</title>
-    <style>
-        .red-text {
-            color: red;
-        }
-        .green-text {
-            color: #00FF00;
-        }
-        .blue-text {
-            color: rgb(0, 0, 255);
-        }
-    </style>
-</head>
-<body>
-    <p class="red-text">This is red text.</p>
-    <p class="green-text">This is green text.</p>
-    <p class="blue-text">This is blue text.</p>
-</body>
-</html>
-<!--
-<h1 align="center">Assalamualaykum I'm Sadat Islam Abdullah</h1>
--->
+
+<h1 align="center" style="color: green;">Assalamualaykum I'm Sadat Islam Abdullah</h1>
+<!--<h1 align="center">Assalamualaykum I'm Sadat Islam Abdullah</h1>-->
 <h3 align="center">Innovative coder crafting solutions that inspire.</h3>
 <img align="right" alt="coding" width="400" src = "https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
