@@ -4,13 +4,13 @@
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadatislam9696&label=Profile%20views&color=0e75b6&style=flat" alt="sadatislam9696" /> </p>
 
-- 👉 <b>I’m currently learning Problem Solving.</b>
+-  <b>I’m currently learning Problem Solving.</b>
 
-- 📫 <b>How to reach me **pathchari5@gmail.com**</b>
+-  <b>How to reach me **pathchari5@gmail.com**</b>
 
-- 💬 <b>Ask me about Competitive-Programming</b>
+-  <b>Ask me about Competitive-Programming</b>
 
-- 😉 <b>Fun fact **I turn caffeine into code. It’s an art.**</b>
+-  <b>Fun fact **I turn caffeine into code. It’s an art.**</b>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
