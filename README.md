@@ -1,6 +1,5 @@
 
-<h1 align="center">Assalamualaykum</h1>
-<p><h1 align="center">I'm Sadat Islam Abdullah</h1>
+<h1 align="center">Assalamualaykum <br> I'm Sadat Islam Abdullah</h1>
 <h2 align="center">A Passionate Competitive-Problem Solver</h2></p>
 <h3 align="center">Innovative coder crafting solutions that inspire</h3>
 <br>
