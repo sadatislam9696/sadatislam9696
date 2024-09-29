@@ -12,7 +12,7 @@
 
 -  <b>How to reach me **pathchari5@gmail.com**</b>
 
--  <b>Fun fact ** : I turn caffeine into code. It’s an art.**</b>
+-  <b>Fun fact : I turn caffeine into code. It’s an art. </b>
 
 <h3 align="left"> Connect with me:</h3>
 <p align="left">
