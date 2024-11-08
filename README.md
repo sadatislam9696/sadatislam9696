@@ -26,24 +26,32 @@
 
 <h2>Connect with me :</h2>
 <p align="left">
-<a href="https://x.com/sadatislam9696" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sadatislam9696" height="50" width="60" /></a>
-<a href="https://www.linkedin.com/in/sadat-islam-abdullah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sadat islam" height="50" width="60" /></a>
-<a href="https://www.facebook.com/Sadat9696" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sadat islam" height="50" width="60" /></a>
-<a href="https://www.youtube.com/c/sadat islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sadat islam" height="50" width="60" /></a>
-<a href="https://codeforces.com/profile/sadat_islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sadat_islam" height="50" width="60" /></a>
-<a href="https://www.leetcode.com/sadat_islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sadat_islam" height="50" width="60" /></a>
-    
+<a href="https://x.com/sadatislam9696" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sadatislam9696" height="40" width="50" /></a>
+<a href="https://www.linkedin.com/in/sadat-islam-abdullah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sadat islam" height="40" width="50" /></a>
+<a href="https://www.facebook.com/Sadat9696" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sadat islam" height="40" width="50" /></a>
+<a href="https://www.youtube.com/c/sadat islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sadat islam" height="40" width="50" /></a>
+<a href="https://codeforces.com/profile/sadat_islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sadat_islam" height="40" width="50" /></a>
+<a href="https://www.leetcode.com/sadat_islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sadat_islam" height="40" width="50" /></a>
 <a href="https://www.codechef.com/users/abdullah_9696" target="_blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="abdullah_9696" height="50" width="60" />
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="abdullah_9696" height="40" width="50" />
 </a>
-
+<a href="https://atcoder.jp/users/sadat_islam" target="_blank">
+  <img align="center" src="https://img.atcoder.jp/assets/icon/avatar.png" alt="sadat_islam" height="40" width="50" />
+</a>
+<a href="https://cses.fi/user/180682" target="_blank">
+  <img align="center" src="https://cses.fi/logo.png?1" alt="sadat_islam" height="40" width="50" />
+</a>
+<a href="https://lightoj.com/user/abdullah_9696" target="_blank">
+  <img align="center" src="https://static.lightoj.com/assets/loj-logo-inverted.png" alt="abdullah_9696" height="40" width="50" />
+</a>
 
 
 </p>
 
 <h2>Tech Stack :</h2>
 
-<img src="https://img.shields.io/badge/C-61DAFB?style=plastic&logo=C&logoColor=black" alt="C" style="width: 70px; height: 40px;"> <img src="https://img.shields.io/badge/C++-000000?style=plastic&logo=c%2B%2B&logoColor=white" alt="C++" style="width: 90px; height: 40px;"> <img src="https://img.shields.io/badge/C%23-28A745?style=plastic&logo=c-sharp&logoColor=black" alt="C#" style="width: 70px; height: 40px;"> <img src="https://img.shields.io/badge/HTML-61DAFB?style=plastic&logo=html5&logoColor=black" alt="HTML" style="width: 100px; height: 40px;"> <img src="https://img.shields.io/badge/Java-000000?style=plastic&logo=java&logoColor=white" alt="Java" style="width: 80px; height: 40px;"> <img src="https://img.shields.io/badge/JavaScript-28A745?style=plastic&logo=javascript&logoColor=white" alt="JavaScript" style="width: 150px; height: 40px;"> <img src="https://img.shields.io/badge/.NET-61DAFB?style=plastic&logo=.net&logoColor=black" alt=".NET" style="width: 120px; height: 40px;"> <img src="https://img.shields.io/badge/Python-000000?style=plastic&logo=python&logoColor=white" alt="Python" style="width: 130px; height: 40px;"> <img src="https://img.shields.io/badge/MySQL-28A745?style=plastic&logo=mysql&logoColor=black" alt="MySQL" style="width: 130px; height: 40px;"> <img src="https://img.shields.io/badge/MongoDB-61DAFB?style=plastic&logo=mongodb&logoColor=black" alt="MongoDB" style="width: 130px; height: 40px;"> <img src="https://img.shields.io/badge/React-000000?style=plastic&logo=react&logoColor=white" alt="React" style="width: 110px; height: 40px;"> <img src="https://img.shields.io/badge/Figma-28A745?style=plastic&logo=figma&logoColor=black" alt="Figma" style="width: 120px; height: 40px;"> <img src="https://img.shields.io/badge/Django-61DAFB?style=plastic&logo=django&logoColor=black" alt="Django" style="width: 130px; height: 40px;"> <img src="https://img.shields.io/badge/Git-000000?style=plastic&logo=git&logoColor=white" alt="Git" style="width: 70px; height: 40px;"> <img src="https://img.shields.io/badge/Tkinter-28A745?style=plastic&logo=python&logoColor=black" alt="Tkinter" style="width: 140px; height: 40px;">
+<img src="https://img.shields.io/badge/C-61DAFB?style=plastic&logo=C&logoColor=black" alt="C" style="width: 60px; height: 30px;"> <img src="https://img.shields.io/badge/C++-000000?style=plastic&logo=c%2B%2B&logoColor=white" alt="C++" style="width: 80px; height: 30px;"> <img src="https://img.shields.io/badge/C%23-28A745?style=plastic&logo=c-sharp&logoColor=black" alt="C#" style="width: 60px; height: 30px;"> <img src="https://img.shields.io/badge/HTML-61DAFB?style=plastic&logo=html5&logoColor=black" alt="HTML" style="width: 90px; height: 30px;"> <img src="https://img.shields.io/badge/Java-000000?style=plastic&logo=java&logoColor=white" alt="Java" style="width: 70px; height: 30px;"> <img src="https://img.shields.io/badge/JavaScript-28A745?style=plastic&logo=javascript&logoColor=white" alt="JavaScript" style="width: 140px; height: 30px;"> <img src="https://img.shields.io/badge/.NET-61DAFB?style=plastic&logo=.net&logoColor=black" alt=".NET" style="width: 110px; height: 30px;"> <img src="https://img.shields.io/badge/Python-000000?style=plastic&logo=python&logoColor=white" alt="Python" style="width: 120px; height: 30px;"> <img src="https://img.shields.io/badge/MySQL-28A745?style=plastic&logo=mysql&logoColor=black" alt="MySQL" style="width: 120px; height: 30px;"> <img src="https://img.shields.io/badge/MongoDB-61DAFB?style=plastic&logo=mongodb&logoColor=black" alt="MongoDB" style="width: 120px; height: 30px;"> <img src="https://img.shields.io/badge/React-000000?style=plastic&logo=react&logoColor=white" alt="React" style="width: 100px; height: 30px;"> <img src="https://img.shields.io/badge/Figma-28A745?style=plastic&logo=figma&logoColor=black" alt="Figma" style="width: 110px; height: 30px;"> <img src="https://img.shields.io/badge/Django-61DAFB?style=plastic&logo=django&logoColor=black" alt="Django" style="width: 120px; height: 30px;"> <img src="https://img.shields.io/badge/Git-000000?style=plastic&logo=git&logoColor=white" alt="Git" style="width: 60px; height: 30px;"> <img src="https://img.shields.io/badge/Tkinter-28A745?style=plastic&logo=python&logoColor=black" alt="Tkinter" style="width: 130px; height: 30px;">
+
 
 
 
