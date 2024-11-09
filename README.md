@@ -46,7 +46,7 @@
 
 
 <a href="https://lightoj.com/user/abdullah_9696" target="_blank">
-  <img align="center" src="https://files.oaiusercontent.com/file-Se74Y35Nsvo7RLDvpYWrQgHU?se=2024-11-08T07%3A53%3A12Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D407e8736-f065-48f2-ac47-65f662138408.webp&sig=rezq7LET8Arv6eyWoz3B2sWXK2eWZhkXYQthCOHsz9s%3D" alt="abdullah_9696" height="40" width="50" />
+  <img align="center" src="https://external.fdac138-2.fna.fbcdn.net/emg1/v/t13/8802695780743074180?url=https%3A%2F%2Flightoj.com%2Floj-og-image.png&fb_obo=1&utld=lightoj.com&stp=c0.5000x0.5000f_dst-emg0_p476x249_q75_u&ccb=13-1&oh=06_Q399no7_ReqUbhTF6QBplG_857xuwpy6Q_nyxuQ8c8Owcs0&oe=6730C0F4&_nc_sid=e42f53" alt="abdullah_9696" height="40" width="50" />
 </a>
 
 <a href="https://atcoder.jp/users/sadat_islam" target="_blank">
