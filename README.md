@@ -21,10 +21,10 @@
 
 
 -  <b>I’m currently working on competitive programming skills and improving my problem-solving abilities.</b>
--  <b>I’m currently learning **advanced C++ concepts and data structures and Algorithm**</b>
--  <b>Ask me anything about Competitive-Programming</b>
+-  <b>I’m currently learning **advanced C++ concepts and data structures and Algorithm.**</b>
+-  <b>Ask me anything about Competitive-Programming.</b>
 -  <b>How to reach me : **pathchari5@gmail.com**</b>
--  <b>Fun fact : I turn caffeine into code. It’s an art 😊 </b>
+-  <b>Fun fact : I turn caffeine into code. It’s an art 😊. </b>
 
 
 <h2>Connect with me :</h2>
