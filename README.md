@@ -41,7 +41,7 @@
 </a>
 
 <a href="https://www.codechef.com/users/abdullah_9696" target="_blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="abdullah_9696" height="40" width="50" />
+  <img align="center" src="https://img.icons8.com/?size=50&id=vAtJFm3hwtQw&format=png" alt="abdullah_9696" height="40" width="50" />
 </a>
 
 
